@@ -52,6 +52,9 @@ yolo-project/
 - `reset()` - Reset all training data to initial state
 
 - note that file paths are formatted for Linux OS and may be different on a Windows computer and will need to be configured to reflect that
+
+
+![Model Images of the cats](./runs/detect/train6/val_batch0_labels.jpg)
   
 ## License
 
